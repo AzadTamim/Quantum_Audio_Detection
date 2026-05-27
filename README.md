@@ -5,6 +5,15 @@
 # Research Objective
 This project evaluates the application of Quantum Support Vector Machines (QSVM) in detecting high-fidelity audio deepfakes. Specifically, we investigate whether mapping acoustic features into 12 qubits provides superior non-linear separation compared to standard Multi-Layer Perceptrons (MLP).
 
+##  Author
+* **Md. Abu Azad Tamim** - *Research Assistant* - (https://github.com/AzadTamim)
+* **University of Chittagong** - *Department of [Mathematics]*
+#* **Supervised by:** Prof. [Professor's Name]
+
+## ✉️ Contact
+For any inquiries regarding this research, please contact:
+[Your.Email@university.edu]
+
 # The Technical Pipeline
 We implemented a hybrid architecture to bridge the gap between raw audio binaries and quantum circuits:
 
