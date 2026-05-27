@@ -1,0 +1,12 @@
+Quantum-ASV-Research/
+├── src/
+│   ├── data_extraction.py      # Script for Wav2Vec2 extraction
+│   └── quantum_engine.py       # Main QSVM and Classical scripts
+├── Notebooks/
+│   └── Comparative_Study.ipynb # Your finalized Jupyter Notebook
+├── Results/
+│   ├── Final_ROC_Plot.png      # The combined graph
+│   └── Metrics_Table.csv       # Accuracy, AUC, EER data
+├── requirements.txt            # List of all libraries
+├── .gitignore                  # Prevents uploading 13GB data and keys
+└── README.md                   # THE MAIN PROJECT PAGE
